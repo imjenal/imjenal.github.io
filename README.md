@@ -1,4 +1,4 @@
-# jyotsna17gupta.github.io
+# imjenal.github.io
 My Personal Site.
 
-Can be found at http://jyotsna17gupta.github.io/
+Can be found at http://imjenal.github.io/
